@@ -123,7 +123,6 @@ footer {
 
 .project-tile img {
     width: 100%;
-    background-color: lightgray;
     height: auto;
     min-height: 220px;
 }
@@ -194,11 +193,27 @@ footer {
         width: 80%;
     }
 
+    #welcome-section {
+        padding-top: 17em;
+    }
+
+    #welcome-section h1 {
+        font-size: 2em;
+    }
+
+    #welcome-section p {
+        font-size: 1em;
+    }
+
     .project-tile-container {
         flex-direction: column;
     }
 
     .project-tile {
         width: 100%;
+    }
+
+    i {
+        font-size: 0.7em;
     }
 }
