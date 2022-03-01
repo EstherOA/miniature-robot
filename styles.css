@@ -193,7 +193,7 @@ footer {
         width: 80%;
     }
 
-    #welcome-section {
+    #welcome-section, #skills, #projects {
         padding-top: 17em;
     }
 
